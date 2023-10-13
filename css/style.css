@@ -1,0 +1,14 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+link {
+  text-decoration: none;
+  color: #008CBA;  
+}

@@ -37,10 +37,17 @@ plugins:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "articles"
+      path: "/_pages" # an empty string here means all files in the project
+      type: "pages"
     values:
-      layout: "default"
+      layout: "page"
+      title: "This is the title of a page"
+      author: "Bastien Golomer"
+
+# Collections
+collections:
+  - pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

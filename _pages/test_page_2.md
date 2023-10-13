@@ -1,8 +1,6 @@
-
 ---
-title:  "Test page"
+title:  "Test page 2"
 date:   2023-10-13
-categories: test
 ---
 # Test 
 
