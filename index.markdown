@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Test the modification of the whole page 
