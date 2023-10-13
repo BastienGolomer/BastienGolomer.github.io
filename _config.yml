@@ -37,11 +37,10 @@ plugins:
 defaults:
   -
     scope:
-      path: "/_pages" # an empty string here means all files in the project
+      path: "_pages" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "page"
-      title: "This is the title of a page"
       author: "Bastien Golomer"
 
 # Collections
