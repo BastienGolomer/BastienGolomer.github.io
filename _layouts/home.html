@@ -3,9 +3,9 @@ layout: base
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  <!-- {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {%- endif -%} -->
 
   {{ content }}
 
@@ -38,7 +38,7 @@ layout: base
       {%- endfor -%}
     </ul>
 
-    {% if site.paginate %}
+    <!-- {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
         {%- if paginator.previous_page %}
@@ -54,7 +54,7 @@ layout: base
         {%- endif %}
         </ul>
       </div>
-    {%- endif %}
+    {%- endif %} -->
 
   {%- endif -%}
 

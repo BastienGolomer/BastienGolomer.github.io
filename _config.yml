@@ -34,18 +34,9 @@ plugins:
   - jekyll-feed
 
 # Default layout 
-defaults:
-  -
-    scope:
-      path: "_pages" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "page"
-      author: "Bastien Golomer"
+
 
 # Collections
-collections:
-  - pages
 
 
 # Exclude from processing.
