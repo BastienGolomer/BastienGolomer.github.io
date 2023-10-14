@@ -4,9 +4,12 @@
 title: "Welcome!"
 layout: home
 ---
+# Useful links
 
-This website is a lab for me to discover frontend software engineering, and also a way to share my interests! 
+* If you wish to read my CV, you can access it [here](CV.md). 
+* You can access my LinkedIn [here](https://www.linkedin.com/in/bastien-golomer/).
+* If you wish to write me about anything, please click <a href="mailto:bastien.golomer@proton.me">here</a>.
 
-It will be all kinds of subjects, but it's just for fun to be honest. If you come across this page, explore and maybe you'll find something interesting.
 
-Enjoy !
+# Blog Posts
+Here is a collection of posts about things that interest me. Maybe you will find something for you as well ! Enjoy the reading.

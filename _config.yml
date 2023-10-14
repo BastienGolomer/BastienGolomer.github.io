@@ -21,7 +21,7 @@
 title: Personal website of Bastien Golomer
 email: b.fra.golomer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I publish here anything related to my professsional and personal discoveries. Welcome!
+  I publish here anything related to my professional and personal discoveries.
 domain: BastienGolomer.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://BastienGolomer.github.io # the base hostname & protocol for your site, e.g. http://example.com

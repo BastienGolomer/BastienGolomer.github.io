@@ -7,6 +7,37 @@ layout: base
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} -->
 
+  <style>
+    .columnLeft {
+  float: left;
+  width: 30%;
+  }
+    .columnRight {
+  float: left;
+  width: 60%;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  </style>
+
+<div class="row">
+  <div class="columnLeft">
+  <img style="border-radius: 50%;" src="Bastien_sept2023.jpg" alt="Me the day of my master's graduation" width="128">
+  </div>
+  <div class="columnRight">
+    This website is a lab for me to discover frontend software engineering, and also a way to share my interests! 
+    It will be all kinds of subjects, but it's just for fun to be honest. If you come across this page, explore and maybe you'll find something interesting.
+    
+    Enjoy !
+  </div>
+</div>
+
+
   {{ content }}
 
 
