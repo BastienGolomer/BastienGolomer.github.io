@@ -12,4 +12,4 @@ layout: home
 
 
 # Blog Posts
-Here is a collection of posts about things that interest me. Maybe you will find something for you as well ! Enjoy the reading.
+[Here](blog.md) is a collection of posts about things that interest me. Maybe you will find something for you as well! Enjoy the reading.
