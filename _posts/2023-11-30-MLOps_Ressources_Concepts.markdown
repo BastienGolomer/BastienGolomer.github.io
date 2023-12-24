@@ -5,6 +5,8 @@ date:   2023-10-13 14:16:55 +0200
 ---
 This blog post sums up concepts and ressources I came across in my journey to learn MLOps. Feel free to check everything out for more in depth content, as this post will only contain my personal notes on core concepts and definitions (even the advanced ones).
 
+**Note**: This blog post is on-going and could contain some mistakes! It is a markdown file of notes.
+
 
 # Ressources
 

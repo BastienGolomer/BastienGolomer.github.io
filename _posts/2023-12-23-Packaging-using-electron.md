@@ -12,7 +12,7 @@ I had a `home.html`, a `styles.css` and a `scripts.js`, which made everything wo
 
 I wanted to package this application. I asked [phind.com](https://phind.com) for help and here are the steps I followed and learnt. It uses Node.js and Electron.
 
-## Steps for pacakging locally
+## Steps for packaging locally
 To package an application consisting of an HTML file with JavaScript scripts and a CSS file, you can use a combination of Node.js and Electron. Here are the steps:
 
 ### Set Up Your Project Directory
@@ -143,4 +143,4 @@ And here are the explanations:
 
 
 ## Conclusion
-With this little experiment, I was able to package an application using node.js and electron and publish the code on github. The project is available at [todo_app](https://github.com/BastienGolomer/todo_app) and I might add other features to it in the future! Thank you for reading! 
+With this little experiment, I was able to package an application using node.js and electron and publish the code on github. The project is available at [todo_app](https://github.com/BastienGolomer/todo_app) and I might add other features to it in the future! Thank you for reading!
