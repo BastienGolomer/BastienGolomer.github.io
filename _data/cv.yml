@@ -1,0 +1,81 @@
+cv:
+  name: Bastien Golomer
+  label: PhD student — Outcome modelling in medicine
+  email: bastien.golomer@proton.me
+  location: "[City, Country]"
+  image: ""
+  summary: PhD student working on outcome modelling in the medical context. Background in physics, data science, and medical physics (proton therapy treatment planning).
+
+  social_networks:
+    - network: GitHub
+      username: BastienGolomer
+    - network: LinkedIn
+      username: bastien-golomer
+
+  sections:
+    Education:
+      - institution: Ecole Polytechnique fédérale de Lausanne (EPFL)
+        location: Lausanne, Switzerland
+        url: https://www.epfl.ch/en/
+        area: Physics (major), Data Science (minor)
+        studyType: MSc
+        start_date: ""
+        end_date: ""
+        highlights:
+          - Major in Physics, minor in Data Science.
+          - Specialized in particle accelerator physics; two semesters at EPFL's LPAP.
+
+      - institution: "[PhD institution — TODO]"
+        location: "[City, Country]"
+        area: Outcome modelling in medicine
+        studyType: PhD
+        start_date: ""
+        end_date: ""
+        highlights:
+          - Ongoing — soon-to-be-published work on outcome modelling in the medical context.
+
+    Experience:
+      - company: Paul Scherrer Institute (PSI) — Center for Proton Therapy / AMAS group
+        position: Research assistant / Master's thesis
+        location: Villigen, Switzerland
+        start_date: ""
+        end_date: ""
+        summary: Joined the Center for Proton Therapy and the AMAS group at PSI for medical physics work on proton therapy treatment planning.
+        highlights:
+          - Ported a GPU-based dose-distribution kernel from Java to Julia.
+          - Built a differentiable version of the dose kernel for machine-learning-based, automatic treatment planning experiments.
+          - "Thesis: automatic selection of optimal proton beam angles for head tumour patients."
+
+    Volunteer:
+      - company: "Nuit de la Magistrale (EPFL graduation party)"
+        position: Co-organizer (first edition)
+        location: Lausanne, Switzerland
+        summary: Helped organize the first edition of EPFL's graduation party.
+
+      - company: Festival Balélec
+        position: Site Lighting team member
+        location: Lausanne, Switzerland
+        summary: Three years on the Site Lighting team for the festival.
+
+      - company: Sysmic
+        position: Committee member
+        location: Lausanne, Switzerland
+
+      - company: AGEPoly (EPFL's general student association)
+        position: Team member (various teams)
+        location: Lausanne, Switzerland
+
+    Skills:
+      - name: Outcome modelling / medical statistics
+        level: ""
+        keywords: "Outcome modelling, biostatistics, medical applications"
+
+      - name: Scientific computing
+        level: ""
+        keywords: "Julia, Python, GPU computing, differentiable programming"
+
+    Interests:
+      - name: MedTech
+        keywords: "Medical technology, treatment planning, outcome modelling"
+
+      - name: CleanTech

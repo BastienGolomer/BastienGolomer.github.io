@@ -1,0 +1,33 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: PhD student · Outcome modelling in medicine · <a href='/cv/'>CV</a>
+
+profile:
+  align: right
+  image: Bastien_sept2023.jpg
+  image_circular: true
+  more_info: >
+    <p>[Institution / lab name]</p>
+    <p>[City, Country]</p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: true
+  scrollable: true
+  limit: 3
+---
+
+I'm a PhD student working on outcome modelling in the medical context. My path here went through physics and medical technology: I graduated from [EPFL](https://www.epfl.ch/en/) with a major in Physics and a minor in Data Science, and specialized for a time in particle accelerator physics at EPFL's LPAP. That led me into medical physics, where I joined the [Center for Proton Therapy](https://www.psi.ch/en/protontherapy) and the [AMAS group](http://amas.web.psi.ch/) at PSI — first porting a GPU dose-distribution kernel from Java to Julia, then building a differentiable version for automatic treatment-planning experiments. My thesis there focused on automatic selection of optimal proton beam angles for head tumour patients.
+
+I'm now continuing in the same space as a PhD student, working on outcome modelling for medical applications, with a soon-to-be-published paper.
+
+This site doubles as a small lab for me to learn frontend/web development on the side — so alongside the research updates, expect the occasional post on things I'm tinkering with.
