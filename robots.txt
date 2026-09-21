@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://BastienGolomer.github.io/sitemap.xml
