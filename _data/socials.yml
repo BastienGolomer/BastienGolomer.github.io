@@ -5,4 +5,5 @@ cv_pdf: /assets/pdf/CV_baseline.pdf # path to your CV PDF file
 email: bastien.golomer@psi.ch # your email address
 github_username: BastienGolomer
 linkedin_username: bastien-golomer
+orcid_id: 0009-0002-2255-2925
 rss_icon: true # comment this line to hide the RSS icon
