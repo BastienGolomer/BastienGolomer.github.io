@@ -9,8 +9,9 @@ profile:
   image: Bastien_sept2023.jpg
   image_circular: true
   more_info: >
-    <p>[Institution / lab name]</p>
-    <p>[City, Country]</p>
+    <p>ETH Zurich / D-PHYS</p>
+    <p>Paul Scherrer Institut / Center for Proton therapy</p>
+    <p>Villigen, Switzerland</p>
 
 selected_papers: true
 social: true

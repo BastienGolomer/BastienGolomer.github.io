@@ -2,9 +2,9 @@ cv:
   name: Bastien Golomer
   label: PhD student — Outcome modelling in medicine
   email: bastien.golomer@proton.me
-  location: "[City, Country]"
+  location: Villigen, Switzerland
   image: ""
-  summary: PhD student working on outcome modelling in the medical context. Background in physics, data science, and medical physics (proton therapy treatment planning).
+  summary: PhD student working on outcome modelling in the medical context. Background in physics (EPFL), data science, and medical physics (proton therapy treatment planning at PSI).
 
   social_networks:
     - network: GitHub
@@ -14,68 +14,143 @@ cv:
 
   sections:
     Education:
-      - institution: Ecole Polytechnique fédérale de Lausanne (EPFL)
-        location: Lausanne, Switzerland
-        url: https://www.epfl.ch/en/
-        area: Physics (major), Data Science (minor)
-        studyType: MSc
-        start_date: ""
-        end_date: ""
-        highlights:
-          - Major in Physics, minor in Data Science.
-          - Specialized in particle accelerator physics; two semesters at EPFL's LPAP.
-
-      - institution: "[PhD institution — TODO]"
-        location: "[City, Country]"
-        area: Outcome modelling in medicine
+      - institution: Paul Scherrer Institute (PSI) — Center for Proton Therapy
+        location: Villigen, Switzerland
+        area: Outcome modelling in proton therapy
         studyType: PhD
         start_date: ""
         end_date: ""
         highlights:
           - Ongoing — soon-to-be-published work on outcome modelling in the medical context.
 
-    Experience:
-      - company: Paul Scherrer Institute (PSI) — Center for Proton Therapy / AMAS group
-        position: Research assistant / Master's thesis
-        location: Villigen, Switzerland
-        start_date: ""
-        end_date: ""
-        summary: Joined the Center for Proton Therapy and the AMAS group at PSI for medical physics work on proton therapy treatment planning.
+      - institution: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+        location: Lausanne, Switzerland
+        url: https://www.epfl.ch/en/
+        area: Physics, minor in Data Science
+        studyType: MSc
+        start_date: 2020-09
+        end_date: 2023-09
         highlights:
-          - Ported a GPU-based dose-distribution kernel from Java to Julia.
-          - Built a differentiable version of the dose kernel for machine-learning-based, automatic treatment planning experiments.
-          - "Thesis: automatic selection of optimal proton beam angles for head tumour patients."
+          - "Key courses: advanced particle accelerator physics (doctoral course), particle physics, quantum field theory, topics in nuclear and particle physics, astroparticle physics, physics against cancer (ETH Zurich)."
+          - "Minor in Data Science — key courses: machine learning, optimization for ML, applied data analysis, database systems."
+
+      - institution: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+        location: Lausanne, Switzerland
+        url: https://www.epfl.ch/en/
+        area: Physics
+        studyType: BSc
+        start_date: 2017-09
+        end_date: 2020-07
+        highlights:
+          - Special interest in particle physics and astrophysics.
+
+      - institution: Lycée International de Ferney-Voltaire
+        location: Ferney-Voltaire, France
+        area: French Scientific Baccalauréat
+        studyType: Baccalauréat
+        start_date: ""
+        end_date: 2017
+
+    Experience:
+      - company: Paul Scherrer Institute (PSI)
+        position: Internship — AMAS Lab / Center for Proton Therapy
+        location: Villigen, Switzerland
+        start_date: 2022-09
+        end_date: 2023-03
+        summary: Shared project between the AMAS Lab and the Center for Proton Therapy.
+        highlights:
+          - "Differentiable influence-matrix calculation using automatic differentiation, implemented in Julia."
+
+      - company: Physics Department, EPFL
+        position: Physics Outreach
+        location: Lausanne, Switzerland
+        start_date: 2019-07
+        end_date: 2020-09
+        highlights:
+          - "Developed 100+ explanatory web pages for physics experiments shown in lectures (French)."
+          - Descriptions of physics phenomena, mathematical concepts, and experimental setups.
+          - "Website: auditoires-physique.epfl.ch"
+
+    Projects:
+      - name: "Beam Angle Selection of Non-Coplanar Fields in Proton Therapy"
+        summary: "MSc thesis, EPFL / PSI (2023). Developed novel techniques for optimal proton beam incidence prediction based on patient geometry and dosimetric requirements."
+        start_date: 2023
+        end_date: 2023
+
+      - name: "Road Segmentation with a Double U-Net"
+        summary: "Machine Learning course, EPFL (2021). Studied a new convolutional neural network architecture for road segmentation of satellite images."
+        start_date: 2021
+        end_date: 2021
+
+      - name: "Estimation of the Sacherer Tune Shift with Perturbed Mode Spectra"
+        summary: "Particle Accelerator Physics Laboratory (LPAP), EPFL, in partnership with CERN (2021). Studied a new approach for a Vlasov solver."
+        start_date: 2021
+        end_date: 2021
+
+      - name: "Feasibility Study for a Muon Source Based on a Long Magnetized Target for Collider Application"
+        summary: "LPAP, EPFL (2020). Analysis of the feasibility of magnetic elements following the requirements of a muon source."
+        start_date: 2020
+        end_date: 2020
 
     Volunteer:
-      - company: "Nuit de la Magistrale (EPFL graduation party)"
-        position: Co-organizer (first edition)
+      - company: "Nuit de la Magistrale, 1st Ed."
+        position: President
         location: Lausanne, Switzerland
-        summary: Helped organize the first edition of EPFL's graduation party.
+        start_date: 2021
+        end_date: 2021
+        summary: "Student-organized event for EPFL's graduation ball/party at the SwissTech Convention Center."
+        highlights:
+          - Recruited and managed a team of 20 over 8 months; implemented sustainable structures and work processes.
+          - "2,200 participants (sold out), including EPFL's leading board."
 
-      - company: Festival Balélec
-        position: Site Lighting team member
+      - company: "Festival Balélec, 40th Ed."
+        position: Member of organising committee — site lighting
         location: Lausanne, Switzerland
-        summary: Three years on the Site Lighting team for the festival.
+        start_date: 2019
+        end_date: 2022
+        summary: "Student-organised festival with 15,000+ participants; team coordination and project management."
+
+      - company: AGEPoly (General student association of EPFL)
+        position: Member
+        location: Lausanne, Switzerland
+        start_date: 2019
+        end_date: 2022
+        highlights:
+          - "Student Representation (2020) — focus on sustainability at EPFL."
+          - "Prevention team (2021–2022) — focus on students' work environment and alcohol over-consumption."
 
       - company: Sysmic
         position: Committee member
         location: Lausanne, Switzerland
 
-      - company: AGEPoly (EPFL's general student association)
-        position: Team member (various teams)
-        location: Lausanne, Switzerland
-
     Skills:
-      - name: Outcome modelling / medical statistics
-        level: ""
-        keywords: "Outcome modelling, biostatistics, medical applications"
+      - name: Python
+        keywords: "NumPy, Matplotlib, Seaborn, Pandas, SciPy, scikit-learn"
 
-      - name: Scientific computing
-        level: ""
-        keywords: "Julia, Python, GPU computing, differentiable programming"
+      - name: Julia
+        keywords: "Flux, Zygote, Enzyme"
+
+      - name: Other languages/tools
+        keywords: "C++, SQL, MATLAB, bash, Slurm"
+
+    Languages:
+      - name: French
+        summary: Native
+
+      - name: English
+        summary: "Cambridge CAE certification, C1"
+
+      - name: German
+        summary: B1–B2
 
     Interests:
       - name: MedTech
         keywords: "Medical technology, treatment planning, outcome modelling"
 
       - name: CleanTech
+
+      - name: Judo
+        keywords: "Black belt, 1st Dan"
+
+      - name: Music
+        keywords: "Guitar — performed several times"
