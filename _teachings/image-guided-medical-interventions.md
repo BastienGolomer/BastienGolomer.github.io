@@ -17,4 +17,4 @@ course_id: image-guided-medical-interventions
 
 ## Overview
 
-Teaching assistant role for [465-0970-00L Image Guided Medical Interventions](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024W&ansicht=ALLE&lerneinheitId=181738&lang=en), Autumn Semester 2024, ETH Zurich. Lectured by Giovanni Fattori (PSI).
+Teaching assistant role for [465-0970-00L Image Guided Medical Interventions](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024W&ansicht=ALLE&lerneinheitId=181738&lang=en), Autumn Semester 2024, ETH Zurich. Lectured by [Giovanni Fattori](https://gfattori.ethz.ch/index.html) (PSI).
