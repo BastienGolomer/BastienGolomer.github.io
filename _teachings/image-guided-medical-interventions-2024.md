@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "465-0970-00L Image Guided Medical Interventions"
+title: "465-0970-00L Image Guided Medical Interventions (Autumn 2024)"
 description: >
   Computer-assisted methods and technologies in interventional medicine: image-guided
   radiotherapy, from using medical images to model patient anatomy to intraoperative
@@ -12,7 +12,7 @@ year: 2024
 term: Autumn
 location: HPL D 32, ETH Zurich
 time: "Lecture Wed 13:45–15:30, Exercise Wed 15:45–16:30"
-course_id: image-guided-medical-interventions
+course_id: image-guided-medical-interventions-2024
 ---
 
 ## Overview
