@@ -4,6 +4,7 @@ title: "Beam Angle Selection of Non-Coplanar Fields in Proton Therapy"
 description: MSc thesis, AMAS Lab / Center for Proton Therapy, PSI (2023)
 importance: 1
 category: research
+tags: [Main contributor]
 ---
 
 **MSc thesis, EPFL / AMAS Lab, Paul Scherrer Institut (2023).**

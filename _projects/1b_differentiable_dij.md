@@ -4,6 +4,7 @@ title: "Differentiable Influence Matrix Calculation Using Automatic Differentiat
 description: Internship project, AMAS Lab / Center for Proton Therapy, PSI (2022–2023)
 importance: 1
 category: research
+tags: [Main contributor]
 ---
 
 **Internship project, AMAS Lab / Center for Proton Therapy, Paul Scherrer Institut (2022–2023).**
