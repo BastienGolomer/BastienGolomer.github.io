@@ -1,10 +1,10 @@
 cv:
   name: Bastien Golomer
-  label: PhD student — Outcome modelling in medicine
-  email: bastien.golomer@proton.me
+  label: PhD student — Outcome modelling in Proton Therapy
+  email: bastien.golomer@psi.ch
   location: Villigen, Switzerland
   image: ""
-  summary: PhD student working on outcome modelling in the medical context. Background in physics (EPFL), data science, and medical physics (proton therapy treatment planning at PSI).
+  summary: "PhD student working on outcome modelling in proton therapy. Current work: prediction models for radiation-induced contrast enhancements in the temporal lobes after skull-base tumour treatment (a normal tissue toxicity), and prediction models for local failure of the same tumour type, leveraging MR images. Background in physics (EPFL), data science, and medical physics (proton therapy treatment planning at PSI)."
 
   social_networks:
     - network: GitHub
@@ -16,12 +16,14 @@ cv:
     Education:
       - institution: Paul Scherrer Institute (PSI) — Center for Proton Therapy
         location: Villigen, Switzerland
-        area: Outcome modelling in proton therapy
+        url: https://www.psi.ch/en/protontherapy/research-areas
+        area: Outcome modelling in Proton Therapy
         studyType: PhD
         start_date: ""
         end_date: ""
         highlights:
-          - Ongoing — soon-to-be-published work on outcome modelling in the medical context.
+          - Prediction models for radiation-induced contrast enhancements in the temporal lobes after skull-base tumour treatment (a normal tissue toxicity).
+          - Prediction models for local failure of the same tumour type, leveraging MR images.
 
       - institution: Ecole Polytechnique Fédérale de Lausanne (EPFL)
         location: Lausanne, Switzerland
