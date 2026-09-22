@@ -31,4 +31,6 @@ I'm a PhD student working on outcome modelling in the medical context. My path h
 
 I'm now continuing in the same space as a PhD student, working on [outcome modelling in proton therapy](https://www.psi.ch/en/protontherapy/research-areas). My current work is on prediction models for radiation-induced contrast enhancements in the temporal lobes after skull-base tumour treatment (a normal tissue toxicity), as well as prediction models for local failure of the same tumour type, leveraging MR images.
 
+I'm also a member of the [Early Career Researcher subcommittee of PTCOG](https://ptcog.online/subcommittee/ecr-subcommitte/) (Particle Therapy Co-Operative Group).
+
 This site doubles as a small lab for me to learn frontend/web development on the side — so alongside the research updates, expect the occasional post on things I'm tinkering with.

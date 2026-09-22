@@ -14,17 +14,6 @@ cv:
 
   sections:
     Education:
-      - institution: Paul Scherrer Institute (PSI) — Center for Proton Therapy
-        location: Villigen, Switzerland
-        url: https://www.psi.ch/en/protontherapy/research-areas
-        area: Outcome modelling in Proton Therapy
-        studyType: PhD
-        start_date: ""
-        end_date: ""
-        highlights:
-          - Prediction models for radiation-induced contrast enhancements in the temporal lobes after skull-base tumour treatment (a normal tissue toxicity).
-          - Prediction models for local failure of the same tumour type, leveraging MR images.
-
       - institution: Ecole Polytechnique Fédérale de Lausanne (EPFL)
         location: Lausanne, Switzerland
         url: https://www.epfl.ch/en/
@@ -55,49 +44,16 @@ cv:
         highlights:
           - Obtained in 2017.
 
-    Experience:
-      - company: Paul Scherrer Institute (PSI)
-        position: Internship — AMAS Lab / Center for Proton Therapy
-        location: Villigen, Switzerland
-        start_date: 2022-09
-        end_date: 2023-03
-        summary: Shared project between the AMAS Lab and the Center for Proton Therapy.
+    Voluntary work:
+      - company: PTCOG (Particle Therapy Co-Operative Group)
+        position: Member, Early Career Researcher (ECR) Subcommittee
+        location: ""
+        start_date: 2026
+        end_date: Present
+        summary: "See ptcog.online/subcommittee/ecr-subcommitte/"
         highlights:
-          - "Differentiable influence-matrix calculation using automatic differentiation, implemented in Julia."
+          - Early Career Researcher subcommittee member.
 
-      - company: Physics Department, EPFL
-        position: Physics Outreach
-        location: Lausanne, Switzerland
-        start_date: 2019-07
-        end_date: 2020-09
-        summary: Created outreach content for physics experiments shown in lectures.
-        highlights:
-          - "Developed 100+ explanatory web pages for physics experiments shown in lectures (French)."
-          - Descriptions of physics phenomena, mathematical concepts, and experimental setups.
-          - "Website: auditoires-physique.epfl.ch"
-
-    Projects:
-      - name: "Beam Angle Selection of Non-Coplanar Fields in Proton Therapy"
-        summary: "MSc thesis, EPFL / PSI (2023). Developed novel techniques for optimal proton beam incidence prediction based on patient geometry and dosimetric requirements."
-        start_date: 2023
-        end_date: 2023
-
-      - name: "Road Segmentation with a Double U-Net"
-        summary: "Machine Learning course, EPFL (2021). Studied a new convolutional neural network architecture for road segmentation of satellite images."
-        start_date: 2021
-        end_date: 2021
-
-      - name: "Estimation of the Sacherer Tune Shift with Perturbed Mode Spectra"
-        summary: "Particle Accelerator Physics Laboratory (LPAP), EPFL, in partnership with CERN (2021). Studied a new approach for a Vlasov solver."
-        start_date: 2021
-        end_date: 2021
-
-      - name: "Feasibility Study for a Muon Source Based on a Long Magnetized Target for Collider Application"
-        summary: "LPAP, EPFL (2020). Analysis of the feasibility of magnetic elements following the requirements of a muon source."
-        start_date: 2020
-        end_date: 2020
-
-    Volunteer:
       - company: "Nuit de la Magistrale, 1st Ed."
         position: President
         location: Lausanne, Switzerland
@@ -135,6 +91,64 @@ cv:
         summary: "EPFL-affiliated student association (sysmic.ch)."
         highlights:
           - "[TODO — add specific role/dates]"
+
+    Experience:
+      - company: Paul Scherrer Institute (PSI) — Center for Proton Therapy
+        position: PhD student
+        location: Villigen, Switzerland
+        url: https://www.psi.ch/en/protontherapy/research-areas
+        start_date: ""
+        end_date: ""
+        summary: Outcome modelling in Proton Therapy.
+        highlights:
+          - Prediction models for radiation-induced contrast enhancements in the temporal lobes after skull-base tumour treatment (a normal tissue toxicity).
+          - Prediction models for local failure of the same tumour type, leveraging MR images.
+
+      - company: Paul Scherrer Institute (PSI)
+        position: Internship — AMAS Lab / Center for Proton Therapy
+        location: Villigen, Switzerland
+        start_date: 2022-09
+        end_date: 2023-03
+        summary: Shared project between the AMAS Lab and the Center for Proton Therapy.
+        highlights:
+          - "Differentiable influence-matrix calculation using automatic differentiation, implemented in Julia."
+
+      - company: Physics Department, EPFL
+        position: Physics Outreach
+        location: Lausanne, Switzerland
+        start_date: 2019-07
+        end_date: 2020-09
+        summary: Created outreach content for physics experiments shown in lectures.
+        highlights:
+          - "Developed 100+ explanatory web pages for physics experiments shown in lectures (French)."
+          - Descriptions of physics phenomena, mathematical concepts, and experimental setups.
+          - "Website: auditoires-physique.epfl.ch"
+
+    Projects:
+      - name: "Beam Angle Selection of Non-Coplanar Fields in Proton Therapy"
+        summary: "MSc thesis, EPFL / AMAS Lab, PSI (2023). This study delves into two distinct strategies for addressing the challenge of predicting beam angles of non-coplanar fields in proton therapy, applied to cranial tumours. The initial approach utilises Convolutional Neural Networks (CNNs), investigated through both supervised and unsupervised learning paradigms; these were assessed for their ability to forecast angles for a single field only, but performance remained unsatisfactory, primarily due to limitations in available patient data. The second approach introduces a novel gradient descent variation tailored to angles prediction for three non-coplanar fields, yielding promising outcomes within reasonable computational time. The predicted plans' efficacy was benchmarked against clinical reference plans."
+        start_date: 2023
+        end_date: 2023
+
+      - name: "Differentiable Influence Matrix Calculation Using Automatic Differentiation"
+        summary: "Internship project, AMAS Lab / Center for Proton Therapy, PSI (2022–2023). Rewrote FIonA's dose-influence-matrix calculation (water-equivalent depth and Dij elements) as a differentiable pipeline in Julia using automatic differentiation (Enzyme.jl), to enable gradient-based optimization of spot positions, energies, and field angles."
+        start_date: 2022
+        end_date: 2023
+
+      - name: "Road Segmentation with a Double U-Net"
+        summary: "Machine Learning course, EPFL (2021). Studied a new convolutional neural network architecture for road segmentation of satellite images."
+        start_date: 2021
+        end_date: 2021
+
+      - name: "Estimation of the Sacherer Tune Shift with Perturbed Mode Spectra"
+        summary: "Particle Accelerator Physics Laboratory (LPAP), EPFL, in partnership with CERN (2021). Studied a new approach for a Vlasov solver."
+        start_date: 2021
+        end_date: 2021
+
+      - name: "Feasibility Study for a Muon Source Based on a Long Magnetized Target for Collider Application"
+        summary: "LPAP, EPFL (2020). Analysis of the feasibility of magnetic elements following the requirements of a muon source."
+        start_date: 2020
+        end_date: 2020
 
     Skills:
       - name: Python
