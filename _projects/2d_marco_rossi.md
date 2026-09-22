@@ -9,7 +9,7 @@ tags: [Student project, Co-supervised]
 
 **MSc Thesis — Marco Rossi, Politecnico di Milano.**
 
-Main advisor: Prof.ssa Chiara Paganelli, Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB), Politecnico di Milano.
+Main advisor: [Prof.ssa Chiara Paganelli](https://www.deib.polimi.it/eng/people/details/611756), Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB), Politecnico di Milano.
 
 ## Abstract
 
