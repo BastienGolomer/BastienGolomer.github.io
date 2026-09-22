@@ -49,7 +49,9 @@ cv:
         area: French Scientific Baccalauréat
         studyType: Baccalauréat
         start_date: ""
-        end_date: 2017
+        end_date: ""
+        highlights:
+          - Obtained in 2017.
 
     Experience:
       - company: Paul Scherrer Institute (PSI)
@@ -66,6 +68,7 @@ cv:
         location: Lausanne, Switzerland
         start_date: 2019-07
         end_date: 2020-09
+        summary: Created outreach content for physics experiments shown in lectures.
         highlights:
           - "Developed 100+ explanatory web pages for physics experiments shown in lectures (French)."
           - Descriptions of physics phenomena, mathematical concepts, and experimental setups.
@@ -109,12 +112,15 @@ cv:
         start_date: 2019
         end_date: 2022
         summary: "Student-organised festival with 15,000+ participants; team coordination and project management."
+        highlights:
+          - Responsible for site lighting.
 
       - company: AGEPoly (General student association of EPFL)
         position: Member
         location: Lausanne, Switzerland
         start_date: 2019
         end_date: 2022
+        summary: General student association of EPFL.
         highlights:
           - "Student Representation (2020) — focus on sustainability at EPFL."
           - "Prevention team (2021–2022) — focus on students' work environment and alcohol over-consumption."
@@ -122,6 +128,11 @@ cv:
       - company: Sysmic
         position: Committee member
         location: Lausanne, Switzerland
+        start_date: ""
+        end_date: ""
+        summary: "EPFL-affiliated student association (sysmic.ch)."
+        highlights:
+          - "[TODO — add specific role/dates]"
 
     Skills:
       - name: Python
@@ -148,6 +159,7 @@ cv:
         keywords: "Medical technology, treatment planning, outcome modelling"
 
       - name: CleanTech
+        keywords: "Clean technology, sustainability"
 
       - name: Judo
         keywords: "Black belt, 1st Dan"
